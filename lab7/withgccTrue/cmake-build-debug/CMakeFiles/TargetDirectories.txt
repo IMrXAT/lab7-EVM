@@ -1,0 +1,3 @@
+/home/mrxat/CLionProjects/EVM/lab7/withgccTrue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mrxat/CLionProjects/EVM/lab7/withgccTrue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mrxat/CLionProjects/EVM/lab7/withgccTrue/cmake-build-debug/CMakeFiles/withgccTrue.dir
